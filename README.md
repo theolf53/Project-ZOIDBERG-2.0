@@ -7,20 +7,20 @@
 
 Une application web full-stack de Machine Learning permettant de classifier des images médicales. L'utilisateur upload une image, et le modèle de Machine Learning prédit si l'état est **Normal** , **Viral** ou **Bacterien**.
 
-## ?? Fonctionnalités
+## Fonctionnalités
 
 - **Interface utilisateur intuitive** : Upload d'image par simple glisser-déposer (Drag & Drop) ou sélection de fichier.
 - **Prédiction en temps réel**: Analyse de l'image et retour immédiat du résultat. 
 
 - **Architecture séparée** : Un backend robuste en Python pour le machine Learning et un frontend en Next.JS
 
-## ??? Stack Technique
+## Stack Technique
 
 - **Machine Learning**: Sklearn, MatplotLib, Pandas, Seaborn et Numpy.
 - **FrontEnd**: Next.JS
 - **Backend**: Python(FastAPI)
 
-## ?? Installation et Lancement en local
+## Installation et Lancement en local
 
 - Python v3.10
 - NextJS 
